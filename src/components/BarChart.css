@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .dropdown-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  h1{
+    color: #09507F;
+    font-size: 2rem;
+  }
+#myChart{
+    width: 1051px;
+    height: 505px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.btn-container{
+  display: flex;
+  width:30%;
+  gap: 35px;
+}
+.usage{
+  font-size: 1.2rem;
+  background-color: #c0c9c5;
+  flex: 1;
+  border-radius: 20px;
+  text-align: left;
+  padding: 10px;
+}
+.vs{
+  font-size: 5rem;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown-container {
+  margin: 0 20px; 
+}
+
+.vs {
+  margin: 0 40px; 
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+  

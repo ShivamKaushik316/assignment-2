@@ -1,0 +1,23 @@
+
+{
+  "data": [
+    {
+      "year": 2020,
+      "electricity": 1500,
+      "gas": 600,
+      "water": 800
+    },
+    {
+      "year": 2021,
+      "electricity": 1600,
+      "gas": 620,
+      "water": 820
+    },
+    {
+      "year": 2022,
+      "electricity": 1550,
+      "gas": 610,
+      "water": 810
+    }
+  ]
+}
